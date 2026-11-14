@@ -84,3 +84,24 @@
 	--button-background:#16a34a;
 	--button-border:1px solid #ffffff;
 }
+
+/* Project — Dark (Black Pixel Analyzer) */
+.button-project-dark {
+	--button-text:#ffffff;
+	--button-background:#1c1c1e;
+	--button-border:1px solid #ffffff;
+}
+
+/* Project — Blue (Chronos) */
+.button-project-blue {
+	--button-text:#ffffff;
+	--button-background:#0ea5e9;
+	--button-border:1px solid #ffffff;
+}
+
+/* Project — Purple (Coding Interview Platform) */
+.button-project-purple {
+	--button-text:#ffffff;
+	--button-background:#7c3aed;
+	--button-border:1px solid #ffffff;
+}
