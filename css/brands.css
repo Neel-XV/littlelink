@@ -97,6 +97,8 @@
 	--button-text:#ffffff;
 	--button-background:#0ea5e9;
 	--button-border:1px solid #ffffff;
+	font-size:0.9rem;
+	letter-spacing:-0.01em;
 }
 
 /* Project — Purple (Coding Interview Platform) */
