@@ -77,3 +77,10 @@
 	--button-background:#282828;
 	--button-border:1px solid #FFFFFF;
 }
+
+/* Resume */
+.button-resume {
+	--button-text:#ffffff;
+	--button-background:#16a34a;
+	--button-border:1px solid #ffffff;
+}
